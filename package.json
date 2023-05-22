@@ -4,7 +4,7 @@
   "description": "This code can be used to merge two cat pictures",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js"
+    "start": "node index.js"
   },
   "author": "Pushpitha Dilhan",
   "license": "ISC",
